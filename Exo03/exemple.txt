@@ -1,0 +1,2 @@
+Ligne 1 : Bienvenue dans la gestion des fichiers C++ !
+Ligne 2 : Les exceptions permettent une gestion propre des erreurs.

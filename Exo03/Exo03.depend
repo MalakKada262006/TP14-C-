@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1794330744 source:c:\users\cli\onedrive\desktop\tp14-c++\exo03\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<stdexcept>
+
